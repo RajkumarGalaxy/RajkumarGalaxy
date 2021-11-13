@@ -9,6 +9,7 @@
 
 <details>
   <summary>📃 My Skills </summary>
+
 ### Languages: ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
 ### ML Frameworks: ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -34,12 +35,16 @@
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </details>
+
 <details>
   <summary>📃 My Contact</summary>
+  
 - 📫 How to reach me: ... rajkumar[dot]galaxy[at]gmail[dot]com
 </details>
+
 <details>
   <summary>📃 My Github Stats</summary>
+  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajkumarGalaxy&hide=issues&count_private=true&show_icons=true&theme=dark)](https://github.com/RajkumarGalaxy/github-readme-stats)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajkumarGalaxy)
 </details>
