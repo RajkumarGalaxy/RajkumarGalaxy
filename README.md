@@ -1,6 +1,6 @@
 <p align='center'>
   
-## Hi, I am Rajkumar Lakshmanamoorthy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi, I am Rajkumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 #### AI/ML | NLP | Computer Vision | Time-Series Analysis 
 
 </p>
